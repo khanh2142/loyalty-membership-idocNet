@@ -31,8 +31,9 @@
 │   ├── types // viết interface vào đây (nếu cần thiết)
 │   └── utils // các hàm dùng chung thì viết vào đây
 ├── .env
-├── .env.development // config môi trường develop
-├── .env.production // config môi trường prodcut
+├── .env.production // dùng để build (build xong move vào folder mình mong muốn)
+├── .env.test // config môi trường develop
+├── .env.prod // config môi trường product
 ├── package.json // config các thư viện
 ├── tsconfig.json // config TypeScript
 └── vite.config.ts // config tool vite
