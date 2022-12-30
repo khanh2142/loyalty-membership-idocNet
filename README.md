@@ -1,0 +1,1 @@
+# loyalty-membership-idocNet
